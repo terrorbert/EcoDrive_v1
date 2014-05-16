@@ -1,0 +1,2 @@
+module EddbHelper
+end
